@@ -1,0 +1,6 @@
+{
+  "name": "Sensi Max",
+  "description": "Premium sensitivity helper and headshot settings calculator for Free Fire Max.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
